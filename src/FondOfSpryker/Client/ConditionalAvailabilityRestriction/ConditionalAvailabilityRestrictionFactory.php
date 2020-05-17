@@ -18,8 +18,6 @@ class ConditionalAvailabilityRestrictionFactory extends AbstractFactory
     }
 
     /**
-     * @throws
-     *
      * @return \FondOfSpryker\Client\ConditionalAvailabilityRestriction\Dependency\Client\ConditionalAvailabilityRestrictionToZedRequestClientInterface
      */
     protected function getZedRequestClient(): ConditionalAvailabilityRestrictionToZedRequestClientInterface
