@@ -11,7 +11,7 @@ use Spryker\Zed\Kernel\Business\AbstractFacade;
 class ConditionalAvailabilityRestrictionFacade extends AbstractFacade implements ConditionalAvailabilityRestrictionFacadeInterface
 {
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *

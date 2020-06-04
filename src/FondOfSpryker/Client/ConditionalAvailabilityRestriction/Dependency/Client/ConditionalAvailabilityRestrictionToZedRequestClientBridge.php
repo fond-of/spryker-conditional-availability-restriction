@@ -5,7 +5,8 @@ namespace FondOfSpryker\Client\ConditionalAvailabilityRestriction\Dependency\Cli
 use Spryker\Client\ZedRequest\ZedRequestClientInterface;
 use Spryker\Shared\Kernel\Transfer\TransferInterface;
 
-class ConditionalAvailabilityRestrictionToZedRequestClientBridge implements ConditionalAvailabilityRestrictionToZedRequestClientInterface {
+class ConditionalAvailabilityRestrictionToZedRequestClientBridge implements ConditionalAvailabilityRestrictionToZedRequestClientInterface
+{
     /**
      * @var \Spryker\Client\ZedRequest\ZedRequestClientInterface
      */
